@@ -5,5 +5,7 @@ AngularJSとSpring Bootを使ったサンプルアプリケーション（クラ
 
 １．Android端末でサンプルアプリケーションを動作させる場合
 
-(1) 右にある「DOWNLOAD ZIP」ボタンをクリックして、ZIPファイルをローカルPCにダウンロードしてください。
+(1) 右にある「Download ZIP」ボタンをクリックして、ZIPファイルをローカルPCにダウンロードしてください。
+(2) ダウンロードしたZIPファイルを解凍してください。
+(3) HotPans_Sample01_Client\android フォルダにある .apk ファイルをAndroid端末に送り、インストールしてください。
 
