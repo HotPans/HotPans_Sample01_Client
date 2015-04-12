@@ -1,11 +1,14 @@
 # HotPans_Sample01_Client
 AngularJSとSpring Bootを使ったサンプルアプリケーション（クライアント側）です。
 
-サンプルアプリケーションの使い方
+## サンプルアプリケーションの使い方
 
-１．Android端末でサンプルアプリケーションを動作させる場合
+### １．Android端末でサンプルアプリケーションを動作させる場合
 
-(1) 右にある「Download ZIP」ボタンをクリックして、ZIPファイルをローカルPCにダウンロードしてください。
-(2) ダウンロードしたZIPファイルを解凍してください。
-(3) HotPans_Sample01_Client\android フォルダにある .apk ファイルをAndroid端末に送り、インストールしてください。
+以下から .apkファイルをAndroid端末にダウンロードし、インストールしてください。
+<https://intense-basin-2782.herokuapp.com/android/20150413011659-MainActivity-debug.apk>
 
+### ２．PCのブラウザからサンプルアプリケーションを動作させる場合
+
+以下からアクセスしてください。
+<https://intense-basin-2782.herokuapp.com/>
